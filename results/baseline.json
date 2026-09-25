@@ -1,0 +1,7 @@
+{
+  "questions": 200,
+  "majority_correct": 84,
+  "majority_accuracy": 0.42,
+  "unparseable": 152,
+  "tie_break": "first candidate id; exclude unparseable votes"
+}

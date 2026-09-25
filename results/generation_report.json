@@ -1,0 +1,19 @@
+{
+  "status": "completed",
+  "source_sha256": "675d924f254b7b324da4cd3e4eec98daa8dcf3adc5b9c8add65c7bb377414c08",
+  "source": "[original local path omitted]",
+  "model_revision": "qwen_0.5b",
+  "seed": 20260914,
+  "max_new_tokens": 768,
+  "candidates_per_question": 5,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "prompt_suffix": "Solve with at most six short reasoning steps. End with a separate line exactly: #### <number>. Do not write anything after that line.",
+  "scope": "external frozen questions",
+  "eos_ids": [
+    151643,
+    151645
+  ],
+  "completed_questions": 200,
+  "seconds": 3775.7339999999967
+}

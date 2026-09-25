@@ -1,0 +1,47 @@
+{
+  "questions": 200,
+  "candidates": 1000,
+  "reload_check": {
+    "status": "passed",
+    "before": 1.2109375,
+    "after": 1.2109375,
+    "absolute_error": 0.0,
+    "device": "cuda"
+  },
+  "results": {
+    "min": {
+      "correct": 68,
+      "accuracy": 0.34,
+      "wilson_95": [
+        0.27791545970908954,
+        0.40811504473163546
+      ]
+    },
+    "product": {
+      "correct": 67,
+      "accuracy": 0.335,
+      "wilson_95": [
+        0.2732408697841648,
+        0.4029780879203329
+      ]
+    },
+    "majority": {
+      "correct": 84,
+      "accuracy": 0.42,
+      "wilson_95": [
+        0.353735991616169,
+        0.48927926060419347
+      ]
+    },
+    "oracle": {
+      "correct": 119,
+      "accuracy": 0.595,
+      "wilson_95": [
+        0.5257971008133889,
+        0.6606222871749307
+      ]
+    }
+  },
+  "unparseable": 152,
+  "scope": "Fixed lightweight process-verifier variant, not full original-paper replication"
+}

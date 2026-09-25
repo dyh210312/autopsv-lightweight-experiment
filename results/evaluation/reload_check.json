@@ -1,0 +1,7 @@
+{
+  "status": "passed",
+  "before": 1.2109375,
+  "after": 1.2109375,
+  "absolute_error": 0.0,
+  "device": "cuda"
+}

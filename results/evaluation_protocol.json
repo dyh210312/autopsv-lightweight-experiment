@@ -1,0 +1,7 @@
+{
+  "training_context": 768,
+  "evaluation_context_limit": 2048,
+  "truncation": false,
+  "reason": "Retain full generated solution plus question; fixed before scoring any final candidate",
+  "model_selection": false
+}
