@@ -17,6 +17,8 @@
 
 ## 文件怎么读
 
+- [`report.pdf`](report.pdf)：最终报告。
+- [`case_studies/`](case_studies/)：报告中两个案例的逐步评分数据及提取脚本；在仓库根目录运行 `python case_studies/get_cases.py` 可重新生成案例文件。
 - `results/RESULTS.md`：报告用结果说明。
 - `results/final_summary.json`：指标与95% Wilson区间。
 - `results/per_question.csv`：逐题对比。
